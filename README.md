@@ -28,87 +28,40 @@
 <td width="55%" valign="top">
 <br>
 
-### `01.` Sobre mí
 
-Desarrolladora de software con ojo para el detalle. Me gusta que cada línea de código sirva tanto a la función como a la forma — interfaces minimalistas, rápidas y bien pensadas.
-
-<br>
-
-**Stack principal**
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,git&theme=dark" />
-</p>
-
-<br>
-</td>
-<td width="45%" align="center" valign="top">
-<br>
-<img src="assets/profile.jpg" width="210" style="border-radius:50%; border:3px solid #E8B4BC; box-shadow:0 0 30px rgba(232,180,188,0.45);" />
-<br>
-</td>
-</tr>
-</table>
-
-<br>
-
-### `02.` Proyectos destacados
+### 💻 Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/tanishamarr1/tnyfit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishamarr1&repo=tnyfit&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=E8B4BC&icon_color=E8B4BC&text_color=ffffff" />
-</a>
-<a href="https://github.com/tanishamarr1/santamariaerp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishamarr1&repo=santamariaerp&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=E8B4BC&icon_color=E8B4BC&text_color=ffffff" />
-</a>
-
-<br>
-
-<a href="https://github.com/tanishamarr1/LaCasaDelHelado">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishamarr1&repo=LaCasaDelHelado&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=E8B4BC&icon_color=E8B4BC&text_color=ffffff" />
-</a>
-<a href="https://github.com/tanishamarr1/Monarca-Ulje">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishamarr1&repo=Monarca-Ulje&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=E8B4BC&icon_color=E8B4BC&text_color=ffffff" />
-</a>
-
-</div>
-
-<br>
-
-### `03.` Estadísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tanishamarr1&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=E8B4BC&icon_color=E8B4BC&text_color=ffffff" width="48.5%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishamarr1&theme=radical&hide_border=true&background=0a0a0a&stroke=E8B4BC&ring=E8B4BC&fire=E8B4BC" width="48.5%" />
+<img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,git,github,vscode&theme=dark" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishamarr1&theme=react-dark&bg_color=0a0a0a&color=E8B4BC&line=E8B4BC&point=ffffff&hide_border=true" width="98%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanishamarr1&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=8" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-E8B4BC?style=for-the-badge&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=E8B4BC)
+![Node.js](https://img.shields.io/badge/-Node.js-E8B4BC?style=for-the-badge&logo=node.js&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=E8B4BC)
 
 </div>
 
 <br>
 
-### `04.` Actividad reciente
+### 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/tanishamarr1/tanishamarr1/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishamarr1&theme=radical&hide_border=true&background=0D1117&stroke=E8B4BC&ring=E8B4BC&fire=E8B4BC&currStreakLabel=E8B4BC" />
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=tanishamarr1&style=for-the-badge&color=E8B4BC&labelColor=0a0a0a&label=Perfil+visitado" />
 </div>
 
 <br>
 
+### 📈 Contribution Graph
+
 <div align="center">
-<img src="assets/banner.svg" width="100%" alt="footer" style="transform: scaleY(-1);" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishamarr1&theme=react-dark&bg_color=0D1117&color=E8B4BC&line=E8B4BC&point=ffffff&hide_border=true" width="95%" />
+
 </div>
+
+<br>
