@@ -1,0 +1,68 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#141414"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8B4BC" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#E8B4BC" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#E8B4BC" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E8B4BC" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#E8B4BC" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softBlur"><feGaussianBlur stdDeviation="2"/></filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <circle cx="1000" cy="80" r="180" fill="url(#glow)">
+    <animate attributeName="r" values="160;200;160" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="120" cy="250" r="140" fill="url(#glow)" opacity="0.6">
+    <animate attributeName="r" values="120;150;120" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <g stroke="#E8B4BC" stroke-opacity="0.25" stroke-width="1" fill="none">
+    <path d="M0,220 C300,180 500,260 800,200 S1100,150 1200,190">
+      <animate attributeName="d"
+        values="M0,220 C300,180 500,260 800,200 S1100,150 1200,190;
+                 M0,200 C300,240 500,180 800,240 S1100,190 1200,150;
+                 M0,220 C300,180 500,260 800,200 S1100,150 1200,190"
+        dur="8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0,250 C350,290 550,210 850,260 S1150,220 1200,240" stroke-opacity="0.15">
+      <animate attributeName="d"
+        values="M0,250 C350,290 550,210 850,260 S1150,220 1200,240;
+                 M0,260 C350,220 550,280 850,220 S1150,260 1200,220;
+                 M0,250 C350,290 550,210 850,260 S1150,220 1200,240"
+        dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g>
+    <circle cx="90" cy="60" r="2" fill="#E8B4BC">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1120" cy="230" r="2" fill="#E8B4BC">
+      <animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="50" r="1.5" fill="#E8B4BC">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="240" r="1.5" fill="#E8B4BC">
+      <animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="600" y="145" font-family="Helvetica, Arial, sans-serif" font-size="72" font-weight="700"
+        fill="#ffffff" text-anchor="middle" letter-spacing="6">TANISHA</text>
+
+  <rect x="450" y="168" width="300" height="2" fill="url(#accent)"/>
+
+  <text x="600" y="205" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="300"
+        fill="#E8B4BC" text-anchor="middle" letter-spacing="4">CODE   ·   DESIGN   ·   BUILD</text>
+</svg>
