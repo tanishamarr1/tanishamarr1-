@@ -101,8 +101,6 @@ Desarrolladora de software con ojo para el detalle. Me gusta que cada línea de 
 <img src="https://raw.githubusercontent.com/tanishamarr1/tanishamarr1/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
-<sub>↳ Esta animación se activa sola una vez configures la GitHub Action (ver `SETUP.md`) — mientras tanto no se mostrará.</sub>
-
 <br><br>
 
 <div align="center">
